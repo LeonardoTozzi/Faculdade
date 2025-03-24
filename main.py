@@ -8,5 +8,5 @@ subtracao = valor1 - valor2
 print("A subtração é {}".format(subtracao))
 divisao = valor1 / valor2 
 print("A divisão é {}".format(divisao))
-multiplicacao = valor1 * valor2 
+multiplicacao = valor1 * valor2
 print("A multiplicação é {}".format(multiplicacao))
