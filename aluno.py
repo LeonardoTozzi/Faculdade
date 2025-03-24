@@ -7,3 +7,4 @@ if int(idade) >= 18:
 else:
     print("Sua participação não foi autorizada por causa da idade")
     
+#É um IF composto.
